@@ -1,4 +1,2 @@
-# UASBAP
-
-Nama : Dwiky Dharmawan
+Name : Dwiky Dharmawan
 Student ID : 03081200014
